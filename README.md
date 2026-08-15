@@ -9,6 +9,7 @@ ESP32 Arduino projects made for the CarloHustle TV channel. Each project is smal
 | [01 Blink](projects/01_Blink) | Flash the ESP32 onboard LED | ESP32 development board, USB cable |
 | [02 Wi-Fi Scanner](projects/02_WiFi_Scanner) | Find nearby Wi-Fi networks and signal strengths | ESP32 development board, USB cable |
 | [03 Web LED Control](projects/03_Web_LED_Control) | Control an LED from a phone or computer browser | ESP32 development board, USB cable, LED, 220-330 ohm resistor |
+| [04 Wi-Fi Survey Monitor](projects/04_WiFi_Survey_Monitor) | Repeatedly report nearby Wi-Fi broadcast metadata in Serial Monitor | ESP32 development board, USB cable |
 
 ## Project Ideas For The Channel
 
