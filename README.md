@@ -10,6 +10,7 @@ ESP32 Arduino projects made for the CarloHustle TV channel. Each project is smal
 | [02 Wi-Fi Scanner](projects/02_WiFi_Scanner) | Find nearby Wi-Fi networks and signal strengths | ESP32 development board, USB cable |
 | [03 Web LED Control](projects/03_Web_LED_Control) | Control an LED from a phone or computer browser | ESP32 development board, USB cable, LED, 220-330 ohm resistor |
 | [04 Wi-Fi Survey Monitor](projects/04_WiFi_Survey_Monitor) | Repeatedly report nearby Wi-Fi broadcast metadata in Serial Monitor | ESP32 development board, USB cable |
+| [05 Bluetooth Serial LED](projects/05_Bluetooth_Serial_LED) | Control an LED from a Bluetooth terminal app | Original ESP32 development board, USB cable, optional LED and 220-330 ohm resistor |
 
 ## Project Ideas For The Channel
 
