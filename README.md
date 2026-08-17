@@ -11,6 +11,7 @@ ESP32 Arduino projects made for the CarloHustle TV channel. Each project is smal
 | [03 Web LED Control](projects/03_Web_LED_Control) | Control an LED from a phone or computer browser | ESP32 development board, USB cable, LED, 220-330 ohm resistor |
 | [04 Wi-Fi Survey Monitor](projects/04_WiFi_Survey_Monitor) | Repeatedly report nearby Wi-Fi broadcast metadata in Serial Monitor | ESP32 development board, USB cable |
 | [05 Bluetooth Serial LED](projects/05_Bluetooth_Serial_LED) | Control an LED from a Bluetooth terminal app | Original ESP32 development board, USB cable, optional LED and 220-330 ohm resistor |
+| [06 Serial Relay Control](projects/06_Serial_Relay_Control) | Switch a relay module from Arduino IDE Serial Monitor | ESP32 development board, opto-isolated relay module, USB cable |
 
 ## Project Ideas For The Channel
 
