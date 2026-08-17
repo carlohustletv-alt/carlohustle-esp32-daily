@@ -12,6 +12,7 @@ ESP32 Arduino projects made for the CarloHustle TV channel. Each project is smal
 | [04 Wi-Fi Survey Monitor](projects/04_WiFi_Survey_Monitor) | Repeatedly report nearby Wi-Fi broadcast metadata in Serial Monitor | ESP32 development board, USB cable |
 | [05 Bluetooth Serial LED](projects/05_Bluetooth_Serial_LED) | Control an LED from a Bluetooth terminal app | Original ESP32 development board, USB cable, optional LED and 220-330 ohm resistor |
 | [06 Serial Relay Control](projects/06_Serial_Relay_Control) | Switch a relay module from Arduino IDE Serial Monitor | ESP32 development board, opto-isolated relay module, USB cable |
+| [07 Temperature Relay Control](projects/07_Temperature_Relay_Control) | Use a DHT22 to control a relay at a chosen temperature | ESP32 development board, DHT22, relay module, USB cable |
 
 ## Project Ideas For The Channel
 
@@ -41,7 +42,7 @@ ESP32 Arduino projects made for the CarloHustle TV channel. Each project is smal
 6. Under **Tools**, select your board. For most generic boards, choose **ESP32 Dev Module**.
 7. Select the correct **Port**, open a project `.ino` file, and click **Upload**.
 
-These starter projects only use libraries included with the Espressif ESP32 board package. No Library Manager downloads are needed.
+Projects 01-06 only use libraries included with the Espressif ESP32 board package. Project 07 also requires **DHT sensor library by Adafruit** and **Adafruit Unified Sensor**, available from **Tools > Manage Libraries**.
 
 ## Serial Monitor
 
